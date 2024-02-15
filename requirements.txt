@@ -2,5 +2,6 @@ streamlit
 mediapipe 
 numpy
 tensorflow
+os
 tempfile
 base64
